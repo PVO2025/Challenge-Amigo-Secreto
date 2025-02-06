@@ -1,4 +1,4 @@
-# Challenge-Amigo-Secreto
+# Challenge-Amigo-Secreto-De-Alura-LATAM
 # Proyecto "Amigo Secreto"
 
 ## Descripción
